@@ -1,0 +1,90 @@
+QUESSTY:: Questioning Technique
+
+  -> BYRESP:: By Response Scope
+    -> OPENEND:: Open-Ended
+    -> CLOSEDEND:: Closed-Ended
+    -> MULTCHOICE:: Multiple-Choice
+    -> FORCEDCH:: Forced-Choice
+    -> LIKERT:: Likert-Scale
+    -> RANKRATE:: Ranking/Rating
+    -> DICHOTOM:: Dichotomous (Yes/No)
+
+  -> BYPURP:: By Purpose
+    -> CLARIFY:: Clarifying
+    -> CONFIRM:: Confirming
+    -> PROBE:: Probing
+    -> CHALLENG:: Challenging
+    -> TEST:: Testing (Recall/Recognition)
+    -> EVALJUDG:: Evaluative/Judgmental
+    -> REFLECT:: Reflective (Echoing/Paraphrasing)
+    -> SUMMARIZE:: Summarizing
+    -> EXTELAB:: Extension/Elaboration
+    -> VALIDATE:: Validation/Verification
+    -> TRIANGUL:: Triangulation
+    -> FOLLOWUP:: Follow-Up
+
+  -> BYDIREC:: By Direction/Style
+    -> DIRECT:: Direct
+    -> INDIRECT:: Indirect
+    -> LEADING:: Leading
+    -> LOADED:: Loaded
+    -> NEUTRAL:: Neutral
+    -> DOUBLEBR:: Double-Barreled
+    -> AMBIGU:: Ambiguous
+    -> HYPOTHET:: Hypothetical
+    -> RHETORIC:: Rhetorical
+    -> FUNNELBR:: Funnel (Broad-to-Narrow)
+    -> INVFUNNEL:: Inverted Funnel (Narrow-to-Broad)
+
+  -> BYCOGNPROC:: By Cognitive Process (Bloom’s Taxonomy)
+    -> KNOWLEDGE:: Knowledge (Recall)
+    -> COMPREHENS:: Comprehension (Understanding)
+    -> APPLICATION:: Application (Practical Use)
+    -> ANALYSIS:: Analysis (Breaking Down)
+    -> SYNTHESIS:: Synthesis (Combining Ideas)
+    -> EVALUATION:: Evaluation (Critical Judgment)
+    -> CREATION:: Creation (Innovative Thinking)
+
+  -> BYREASONAPP:: By Reasoning Approach
+    -> SOCRATIC:: Socratic
+    -> CRITICTH:: Critical Thinking
+    -> ANALYTICAL:: Analytical
+    -> DIAGNOSTIC:: Diagnostic
+    -> HYPTEST:: Hypothesis-Testing
+    -> COUNTFCT:: Counterfactual
+    -> METACOG:: Metacognitive
+    -> INVESTIGAT:: Investigative
+    -> THERAPETIC:: Therapeutic/Counseling
+    -> EDUCATIONAL:: Educational
+    -> INTERVIEWBEH:: Interview (Behavioral)
+    -> INTERVIEWCOMP:: Interview (Competency-Based)
+    -> INTERVIEWSTAR:: Interview (STAR Method)
+    -> SALESCONS:: Sales/Consultative
+    -> RESEARCHSTRUC:: Research (Structured)
+    -> RESEARCHSEMI:: Research (Semi-Structured)
+    -> RESEARCHUNSTR:: Research (Unstructured)
+    -> FOCUSGRP:: Focus Groups (If others are involved)
+
+  -> BYCONTEXT:: By Context/Domain
+    -> ECHOREFL:: Echo/Reflective
+    -> PARAPHRASE:: Paraphrasing
+    -> SUMMARIZECTX:: Summarizing
+    -> MIRROR:: Mirroring
+    -> SILENTPROBE:: Silent Probe
+    -> ENCOURAGE:: Encouragement
+
+  -> BYCONTENTFR:: By Content Framing
+    -> DEFINI:: Definitional
+    -> JUSTIFY:: Justification
+    -> EVIDENCEBASE:: Evidence-Based
+    -> ASSUMPROBE:: Assumption-Probing
+    -> PERSPECTIVE:: Perspective-Taking
+    -> COMPARATIVE:: Comparative
+    -> PRIORITIZE:: Prioritization
+    -> CONSEQUENT:: Consequential
+    -> SCENARIO:: Scenario-Based
+    -> FUTORIENT:: Future-Oriented
+    -> RETROSPEC:: Retrospective
+    -> EXPLORATIVE:: Exploratory
+    -> CONFIRMATORY:: Confirmatory
+
