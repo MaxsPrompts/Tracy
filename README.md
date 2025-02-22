@@ -16,6 +16,35 @@ Real people. Real results. Real change.
 This repository contains the prompts and files for all **13 Tracy GPTs** designed to help people break bad habits, build better ones, and take control of their lives.  
 
 ---
+## **Tracy GPT Testimonials**  
+
+### **Digital Detox | Tracy**  
+🗣️ *"I'd like to thank you for developing these therapy chatbots. I'm a therapist and a hypnotist. You've done an amazing job, and the anchors work well. I look forward to utilizing your tool more and more."* — u/BigBiziness12  
+
+### **Quit Alcohol | Tracy**  
+🗣️ *"This is really amazing! I’m 4 months alcohol and weed sober after being a chronic user of both for 2 years. Tracy helped me through cravings when nothing else worked."* — u/sculpting_with_time_  
+
+🗣️ *"I am having my first sober night in a long time thanks to Tracy. We are having a great chat. Thank you."* — u/temsahnes  
+
+### **Quit Cannabis | Tracy**  
+🗣️ *"I just used your quit weed prompt… I never thought I could go a week without smoking, but here I am. Thank you!"* — u/rhymeme  
+
+🗣️ *"For years, I struggled with withdrawal symptoms no doctor or Google search could explain. Tracy identified the cause instantly and gave me a path forward."* — u/killthecowsface  
+
+### **Quit Nicotine | Tracy**  
+🗣️ *"Your prompt literally changed my life. I’ve been trying to quit nicotine for years, and Tracy finally made it possible. I don’t know how to thank you."* — u/Aleetchay  
+
+🗣️ *"Your nicotine quitting prompt has been a game-changer. I was skeptical, but now I actually feel in control. Day 5 and counting!"* — u/Ben716  
+
+### **Quit Porn | Tracy**  
+🗣️ *"Thanks a ton! You should get the presidential honor award for this great work."* — Private Testimonial  
+
+### **Mindful Meals | Tracy**  
+🗣️ *"Wow, I just used the Mindful Meals Tracy and I’m… I’m tearing up because I’ve struggled my entire life with food. This is truly life-changing."* — u/xX_IconOne_Xx  
+
+🗣️ *"I used your hypnosis-style Tracy prompt not for quitting, but for motivation. Now I actually want to go to the gym. Never thought AI could do this."* — u/jhandersson  
+
+---
 
 ## **How Tracy Works**  
 Most AI chatbots give quick answers. Tracy does more.  
